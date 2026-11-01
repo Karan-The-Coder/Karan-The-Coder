@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070912,50:1e3a8a,100:61DAFB&height=220&section=header&text=Karan%20Barodiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=React%20Native%20Engineer%20%E2%80%A2%20AI-Augmented%20Mobile%20Dev&descSize=18&descAlignY=58&animation=fadeIn" alt="Karan Barodiya" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070912,50:1e3a8a,100:61DAFB&height=220&section=header&text=Karan%20Barodiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI-Augmented%20Software%20Dev&descSize=18&descAlignY=58&animation=fadeIn" alt="Karan Barodiya" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ```ts
 const karan = {
-  role: "Software Engineer (React Native) · Project Lead",
+  role: "Software Engineer · Project Lead",
   currentlyAt: "Nyusoft Solutions LLP",
   experience: "3.5+ years",
   shipped: "12+ client apps — architecture → deployment",
@@ -104,8 +104,8 @@ const karan = {
 | 🚕 **Multi-service ride-hailing** | Bike, car, taxi & parcel with real-time driver matching and live map tracking |
 | 💳 **Credit score manager** | Experian, TransUnion & Equifax APIs, offline PDF export, Async Storage caching |
 
----
-
+<!-- --- -->
+<!-- 
 ## 🧪 Open-Source Playground
 
 | Project | Stack |
@@ -114,7 +114,7 @@ const karan = {
 | 🌦️ [RN-Weather-app](https://github.com/Karan-The-Coder/RN-Weather-app) | React Native |
 | 🧠 [the_quiz_app_client](https://github.com/Karan-The-Coder/the_quiz_app_client) · [server](https://github.com/Karan-The-Coder/the_quiz_app_server) | MERN |
 | 📊 [Data-visualization-dashboard](https://github.com/Karan-The-Coder/Data-visualization-dashhboard) | React |
-| 💬 [stack-overflow-client](https://github.com/Karan-The-Coder/stack-overflow-client) | React |
+| 💬 [stack-overflow-client](https://github.com/Karan-The-Coder/stack-overflow-client) | React | -->
 
 ---
 
