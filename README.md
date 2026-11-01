@@ -116,7 +116,7 @@ const karan = {
 | 📊 [Data-visualization-dashboard](https://github.com/Karan-The-Coder/Data-visualization-dashhboard) | React |
 | 💬 [stack-overflow-client](https://github.com/Karan-The-Coder/stack-overflow-client) | React | -->
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -127,7 +127,7 @@ const karan = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Karan-The-Coder&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+</p> -->
 
 ---
 
